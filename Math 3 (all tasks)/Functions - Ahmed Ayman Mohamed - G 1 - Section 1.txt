@@ -1,0 +1,25 @@
+Name : Ahmed Ayman Mohamed
+Group : 1
+Section : 1
+
+All Tasks :
+(All Based on Dynamic Arrays)
+Input Matrix (operator overloaded(>>))
+Output Matrix (operator overloaded(<<))
+getrows
+getcolumns
+getmat
+isValid
+isAug
+Add (operator overloaded(+))
+Subtract (operator overloaded(-))
+MultiplyWithMatrix(operator overloaded(*))
+MultiplyWithConstant(operator overloaded(*))
+MatrixPower(operator overloaded(^))
+Transpose
+Echelon
+ReducedEchelon
+Add_IdentityMatrix
+Inverse
+Determinant
+Run
